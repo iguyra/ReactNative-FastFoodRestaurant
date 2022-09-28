@@ -1,0 +1,112 @@
+[
+  {
+    "key": 1,
+    "name": "Food name 1",
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 2,
+    "name": "Food name 2",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 3,
+    "name": "Food name 3",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 5,
+    "name": "Food name 4",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 6,
+    "name": "Food name 5",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 7,
+    "name": "Food name 6",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 8,
+    "name": "Food name 7",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 49,
+    "name": "Food name 8",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 94,
+    "name": "Food name 9",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 40,
+    "name": "Food name 10",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c300.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  },
+  {
+    "key": 29,
+    "name": "Food 11",
+    "description":
+      "Lorem Ipsum is simply dummy text of the printing and typesettingindustry. Lorem Ipsum has been",
+
+    "price": "c400.00",
+    "image": "../assets/f1.jpg",
+    "addToCart": "Add cart"
+  }
+]
